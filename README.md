@@ -15,11 +15,11 @@ This comand will start a timer and you have 5 seconds until the program stops
 ```
 python3 main.py -mv <number>
 ```
-You have <number> inputs available until it stops.
+You have number inputs available until it stops.
 ```
 python3 main.py -utm -mv <number>
 ```
-You have <number> seconds until the program stops.
+You have number seconds until the program stops.
 
 For more information you can use this command:
 ```
